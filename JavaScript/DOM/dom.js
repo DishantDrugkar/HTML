@@ -15,3 +15,4 @@ console.dir(city);
 
 let city2 = document.querySelectorAll("h2");  // first element
 console.dir(city2);
+
